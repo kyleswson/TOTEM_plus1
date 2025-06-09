@@ -10,6 +10,13 @@ TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used w
 It was created for the SEEED XIAO keyboard contest.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 
+
+
+## TOTEM_Rollin
+Totem Rollin is a modified version of TOTEM by GEIGEIGEIST. It has additional one key on inner index column of each side (total 40 keys). This is because typing in Korean needs the "B" key on the right hand side. So I added additional B key on the right. And to make this keyboard symmetrical, I added it on the left side too. 
+The inner thumb keys have been replaced to EVQWGD001 roller encoders. Thought this will be handy for navigating cursor while typing.
+
+
 ***
 
 ## LAYOUT
