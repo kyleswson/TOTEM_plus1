@@ -1728,6 +1728,19 @@
 		)
 		(uuid "a4d45fef-aa04-4cc6-b6e3-e5352a5f7825")
 	)
+	(text "R O L L E R\nE N C O D E R"
+		(exclude_from_sim no)
+		(at 110.998 57.912 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "caf29264-edf2-42a8-b692-2b2e73454c9b")
+	)
 	(text "R I G H T"
 		(exclude_from_sim no)
 		(at 152.908 20.828 0)
@@ -1775,6 +1788,19 @@
 			(justify left bottom)
 		)
 		(uuid "ee91328b-bd82-416c-be69-0805172d270b")
+	)
+	(text "R O L L E R\nE N C O D E R"
+		(exclude_from_sim no)
+		(at 164.084 58.42 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe7d1057-1a3e-4961-83a3-3f0af1102ef3")
 	)
 	(junction
 		(at 33.782 104.14)
