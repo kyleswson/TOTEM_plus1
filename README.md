@@ -12,8 +12,8 @@ It was created for the SEEED XIAO keyboard contest.\
 
 
 
-## TOTEM_Rollin
-Totem Rollin is a modified version of TOTEM by GEIGEIGEIST. It has additional one key on inner index column of each side (total 40 keys). This is because typing in Korean needs the "B" key on the right hand side. So I added additional B key on the right. And to make this keyboard symmetrical, I added it on the left side too. 
+## TOTEM+1
+Totem+1 is a modified version of TOTEM by GEIGEIGEIST. It has additional one key on inner index column of each side (total 40 keys). This is because typing in Korean needs the "B" key on the right hand side. So I added additional B key on the right. And to make this keyboard symmetrical, I added it on the left side too. 
 The inner thumb keys have been replaced to EVQWGD001 roller encoders. Thought this will be handy for navigating cursor while typing.
 
 
