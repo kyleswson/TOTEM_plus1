@@ -1,0 +1,174 @@
+(footprint "Diode_SOD123_both_side"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(placed yes)
+	(layer "F.Cu")
+	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
+	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
+	(property "Reference" "DL8"
+		(at 0 1.5 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "075fdf71-d7f1-4c97-b5d4-537c37ff1e2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_Small"
+		(at 0 -1.2 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c92834a3-5f50-4f75-993b-d29c98fb3e62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a2c6633-3af1-4340-9b08-32250a005ceb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eef35b25-251e-43f2-a218-c62d3b24bb99")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "358a3e00-6221-4b42-812e-397cdf84654f")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aaae7bfc-fb75-4c98-aec7-55907c140b54")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "593538f4-51b6-4ba4-94c3-e9e4859a66e2")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ba2b3da-1c6f-425a-96c7-dad9fc439a48")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "7d3c15ab-48e0-4ec1-af80-ae3bc987b28b")
+	)
+	(fp_line
+		(start -0.5 0.7)
+		(end -0.5 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "88cf2371-0ed0-4051-905a-103a68774f47")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "de05258d-60b0-455c-8725-9da586f3982f")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "fad36c27-7818-405a-9183-cf72f2897110")
+	)
+	(pad "1" smd rect
+		(at -1.7 0)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa0e5e41-4e06-4a94-86fb-ccf3422e71be")
+	)
+	(pad "1" smd rect
+		(at -1.7 0 180)
+		(size 1.8 1.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "190ae63f-594a-40e3-bd5e-114f82e42594")
+	)
+	(pad "2" smd rect
+		(at 1.7 0)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1d73149f-138c-43f0-8455-4a96dc11660e")
+	)
+	(pad "2" smd rect
+		(at 1.7 0 180)
+		(size 1.8 1.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "83ab20f0-dd46-4f95-ad23-a241677a188a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/TOTEM3D/D_SOD-123.step"
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
