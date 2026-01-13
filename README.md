@@ -12,7 +12,7 @@ It was created for the SEEED XIAO keyboard contest.\
 
 
 
-## TOTEM+1 (Companion Totem)
+## Companion Totem (TOTEM+1)
 Totem+1 is a modified version of TOTEM by GEIGEIGEIST. It has additional one key on inner index column of each side (total 40 keys). This is because typing in Korean needs the "B" key on the right hand side. So I added additional B key on the right. And to make this keyboard symmetrical, I added it on the left side too. 
 
 The inner thumb keys have been replaced to [EVQWGD001 roller encoders](https://a.aliexpress.com/_c3mfh3fF). Thought this will be handy for navigating cursor while typing. These are very expensive now(25$ for 1) but luckily I got it for 5$ each few years ago. \
