@@ -1,0 +1,255 @@
+(footprint "T460S_TP"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6a446e7f-6ea5-4c48-b780-a5786b641c99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "T460S_TP"
+		(at -2.2 0.35 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "45b9c133-1f02-447f-a939-fb2c8a0efcfb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f474d85-3006-43bc-b4a1-bec4bb66764a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c71b7b8d-40fd-447d-bcd5-f6bd5b599818")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -11.75 -2.85)
+		(end -6.75 -2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "ba3a4469-8399-4074-ba13-a5d5a1afb060")
+	)
+	(fp_line
+		(start -11.75 2.85)
+		(end -11.75 -2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "09044f97-3261-4b47-a871-2b73273a55c8")
+	)
+	(fp_line
+		(start -6.75 -2.85)
+		(end -3.25 -6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "3694ea76-c92e-4274-a43a-8876c8d55f4e")
+	)
+	(fp_line
+		(start -6.75 2.85)
+		(end -11.75 2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "2e8bb1b0-46f8-4f13-8d2b-75244319348c")
+	)
+	(fp_line
+		(start -6.75 2.85)
+		(end -3.25 6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "32683a40-6d3d-4cd6-a73d-b84febf6e944")
+	)
+	(fp_line
+		(start -3.25 -6.35)
+		(end 3.25 -6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "3143cc34-3bdb-4f27-a431-8e09395c2017")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 26.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "41f0cc32-b202-47f6-9a59-e2a6346aa685")
+	)
+	(fp_line
+		(start 3.25 6.35)
+		(end -3.25 6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "a93a18dd-67b4-4161-91f0-fadd43599271")
+	)
+	(fp_line
+		(start 6.75 -2.85)
+		(end 3.25 -6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "cfb5a35d-4dea-4dbd-89c0-09efa4e83ec1")
+	)
+	(fp_line
+		(start 6.75 -2.85)
+		(end 11.75 -2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "1454d6fc-4b9b-4179-8169-9c6932a0bb21")
+	)
+	(fp_line
+		(start 6.75 2.85)
+		(end 3.25 6.35)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "bb7ec5d0-4fde-48da-b745-4310b5182df3")
+	)
+	(fp_line
+		(start 11.75 -2.85)
+		(end 11.75 2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "72e59f96-1118-4b35-90cc-c99bf7d819c2")
+	)
+	(fp_line
+		(start 11.75 2.85)
+		(end 6.75 2.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "d95f7b3a-c952-426c-b9fa-ab22bee79d7e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 4.3 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "f80dea36-608d-43f9-8bff-b6549b7ac5d7")
+	)
+	(pad "1" thru_hole circle
+		(at -9 0 90)
+		(size 4.2 4.2)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8ebe432c-2428-40c6-9f09-83a962e70e91")
+	)
+	(pad "1" smd rect
+		(at 3.81 26.7 180)
+		(size 1.6 4)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "83c056ad-636c-4717-87b7-e60c261b5be8")
+	)
+	(pad "1" thru_hole circle
+		(at 9 0 90)
+		(size 4.2 4.2)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "691de219-0baa-468e-a2bf-76cd526a56a1")
+	)
+	(pad "2" smd rect
+		(at 1.27 26.7 180)
+		(size 1.6 4)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "e8bad8e1-459a-4818-ac61-410b7d3eea82")
+	)
+	(pad "3" smd rect
+		(at -1.27 26.7 180)
+		(size 1.6 4)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "0f78f47c-23f4-4895-beba-3d45652d43bb")
+	)
+	(pad "4" smd rect
+		(at -3.81 26.7 180)
+		(size 1.6 4)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "7b3dd9a3-1116-42bc-b613-b2035ad41602")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/A64562/Downloads/trackpoint_extensions_v1.1-1/trackpoint_extensions_v1.1-1/kicad_models/tp_extension_red_t460s_md-0.5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
